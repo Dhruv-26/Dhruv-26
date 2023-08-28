@@ -54,8 +54,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920" />
 
 <br>
 
@@ -63,7 +62,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920" />
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -87,7 +86,7 @@
   
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920" />
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
@@ -120,7 +119,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920" />
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
@@ -131,9 +130,9 @@
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Dhruv-26/Dhruv-26/output/github-contribution-grid-snake-dark.svg)
 
-<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920" />
  
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- 💜 Thanks For Visiting --------------------------------------------------------------------------------------------------------------------------- -->
@@ -144,4 +143,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1920" />
