@@ -1,13 +1,12 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 <div align="center">
-  ## Hey Folks,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>I'm [Dhruv Kumar!](https://www.linkedin.com/in/dhruv-kushwaha/)
-  <br>
-  <p align="center">
-    <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;I'm+a+Software+Developer" /></a>
-  </p>
-  <br>
+  <h2>Hey Folks, I'm <a href="https://www.linkedin.com/in/dhruv-kushwaha/">Dhruv Kumar!</a>
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>
+  </h2>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;I'm+a+Software+Developer" /></a>
 </div>
 
 ![banner2](https://github.com/Dhruv-26/Dhruv-26/assets/73277299/9777cff1-0472-4d4b-907c-e05bb2dd0bdd)
@@ -23,7 +22,6 @@
   <a href="https://www.linkedin.com/in/dhruv-kushwaha/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:dhruvkushwaha83@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
 </div>
-<br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -38,8 +36,7 @@
 <div>
 
 <i>&nbsp; Meet Dhruv Kumar, the web magician who weaves code into mesmerizing online experiences. With a fusion of creativity and technical finesse, Dhruv crafts digital marvels that linger in memory.</i><br><br>
-## Hey Folks,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>I'm [Dhruv Kumar!](https://www.linkedin.com/in/dhruv-kushwaha/)
-<br><br>
+<br>
 
 # 💫 About Me:
 
