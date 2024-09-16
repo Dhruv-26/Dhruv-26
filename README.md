@@ -1,6 +1,15 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<div align="center">
+  ## Hey Folks,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>I'm [Dhruv Kumar!](https://www.linkedin.com/in/dhruv-kushwaha/)
+  <br>
+  <p align="center">
+    <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;I'm+a+Software+Developer" /></a>
+  </p>
+  <br>
+</div>
+
 ![banner2](https://github.com/Dhruv-26/Dhruv-26/assets/73277299/9777cff1-0472-4d4b-907c-e05bb2dd0bdd)
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
