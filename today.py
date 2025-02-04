@@ -456,10 +456,11 @@ if __name__ == '__main__':
     repo_data, repo_time = perf_counter(graph_repos_stars, 'repos', ['OWNER'])
     contrib_data, contrib_time = perf_counter(graph_repos_stars, 'repos', ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'])
     follower_data, follower_time = perf_counter(follower_getter, USER_NAME)
+    print('PATH>>>>>>>>>>>>>',os.getcwd())
 
     # several repositories that I've contributed to have since been deleted.
     if OWNER_ID == {'id': 'MDQ6VXNlcjczMjc3Mjk5'}: # only calculate for user Dhruv-26
-        print(os.getcwd())
+        print('PATH>>>>>>>>>>>>>::::',os.getcwd())
         archived_data = add_archive()
         for index in range(len(total_loc)-1):
             total_loc[index] += archived_data[index]
