@@ -47,7 +47,8 @@
 
 # 💫 About Me:
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Dhruv-26/Dhruv-26/assets/73277299/fbd1574a-e694-4334-b13b-6250ca841f5d">
+<!--<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/b4288eff-3e5d-4e7e-91bd-7a3cfa061518">-->
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9b7f2cf2-1f37-453f-9a1a-5894ad6198bc">
 
 - <img src="https://github.com/user-attachments/assets/e95744ae-34a6-47d8-be02-46ca0178e2d9" width="25" /> I have completed my B.Tech in CSE.
 - <img src="https://github.com/user-attachments/assets/e0ade281-7c71-4d20-aee2-6a4c5a1452f7" width="25" /> I’m currently learning more about Web Development,Kubernetes and DevOps.
