@@ -442,6 +442,7 @@ if __name__ == '__main__':
     Dhruv Kumar (Dhruv-26) feb_2025 - feb_2026
     """
     print('Calculation times:')
+    print('Path')
     # define global variable for owner ID and calculate user's creation date
     # e.g {'id': 'MDQ6VXNlcjczMjc3Mjk5'} and 2025-02-04T21:15:07Z for username 'Dhruv-26'
     user_data, user_time = perf_counter(user_getter, USER_NAME)
