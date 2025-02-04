@@ -459,6 +459,7 @@ if __name__ == '__main__':
 
     # several repositories that I've contributed to have since been deleted.
     if OWNER_ID == {'id': 'MDQ6VXNlcjczMjc3Mjk5'}: # only calculate for user Dhruv-26
+        print(os.getcwd())
         archived_data = add_archive()
         for index in range(len(total_loc)-1):
             total_loc[index] += archived_data[index]
