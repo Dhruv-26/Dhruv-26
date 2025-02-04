@@ -141,7 +141,7 @@
 
 # <img src="https://github.com/user-attachments/assets/727e0f21-965b-4134-aca2-b6dd1051c0d8" alt="Snake" width="40" /> Watch my contributions get eaten by snake
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Dhruv-26/Dhruv-26/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph]((https://github.com/Dhruv-26/Dhruv-26/blob/output/github-snake-dark.svg)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920" />
