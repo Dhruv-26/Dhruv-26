@@ -442,13 +442,14 @@ if __name__ == '__main__':
     Dhruv Kumar (Dhruv-26) feb_2025 - feb_2026
     """
     print('Calculation times:')
-    print('Path')
+    # print('Path')
     # define global variable for owner ID and calculate user's creation date
     # e.g {'id': 'MDQ6VXNlcjczMjc3Mjk5'} and 2025-02-04T21:15:07Z for username 'Dhruv-26'
     user_data, user_time = perf_counter(user_getter, USER_NAME)
     OWNER_ID, acc_date = user_data
     formatter('account data', user_time)
     age_data, age_time = perf_counter(daily_readme, datetime.datetime(1999, 4, 8))
+    formatter('age', age_data)
     formatter('age calculation', age_time)
     total_loc, loc_time = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
     formatter('LOC (cached)', loc_time) if total_loc[-1] else formatter('LOC (no cache)', loc_time)
@@ -457,11 +458,11 @@ if __name__ == '__main__':
     repo_data, repo_time = perf_counter(graph_repos_stars, 'repos', ['OWNER'])
     contrib_data, contrib_time = perf_counter(graph_repos_stars, 'repos', ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'])
     follower_data, follower_time = perf_counter(follower_getter, USER_NAME)
-    print('PATH>>>>>>>>>>>>>',os.getcwd())
+    # print('PATH>>>>>>>>>>>>>',os.getcwd())
 
     # several repositories that I've contributed to have since been deleted.
     if OWNER_ID == {'id': 'MDQ6VXNlcjczMjc3Mjk5'}: # only calculate for user Dhruv-26
-        print('PATH>>>>>>>>>>>>>::::',os.getcwd())
+        # print('PATH>>>>>>>>>>>>>::::',os.getcwd())
         archived_data = add_archive()
         for index in range(len(total_loc)-1):
             total_loc[index] += archived_data[index]
