@@ -1,10 +1,10 @@
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
-This line is a comment block. Write whatever you want here.
+This is a cache of all of the repositories I own, have contributed to, or am a member of.
+
+repository (hashed)  total commits  my commits  LOC added by me  LOC deleted by me
+         \                \                \           \__________ \
+          \                \                \___________________  \  \
+           \                \_________________________________  \  \  \
+____________\___________________________________________________\_\_\__\___
 8ae478e672169d11f4b7fd8127b305a04bfbb31848668568be690c2a5ede1992 3 3 149 1
 7621ee1dd172ee888e57222d92568bf16610758ede180c8320f39c6ff08aeae8 4 4 132 1
 230099ba242f982fb5bc6e6d8ba1b81489b3ec12a519abf4d6b0ccf534a243be 5 5 1088 7
