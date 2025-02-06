@@ -2,7 +2,7 @@ name: Switch Dark & Light Mode SVGs
 
 on:
   schedule:
-    - cron: "*/1 * * * *"  # Har minute chalega
+    - cron: "*/5 * * * *"  # Har 5 minute ma chalega
   workflow_dispatch:  # Manually bhi run kar sakte ho
 
 jobs:
