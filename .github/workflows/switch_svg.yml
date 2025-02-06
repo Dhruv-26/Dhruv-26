@@ -1,0 +1,37 @@
+name: Switch Dark & Light Mode SVGs
+
+on:
+  schedule:
+    - cron: "*/1 * * * *"  # Har minute chalega
+  workflow_dispatch:  # Manually bhi run kar sakte ho
+
+jobs:
+  switch-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Swap Dark Mode SVGs
+        run: |
+          if [[ -f dark_mode.svg ]]; then
+            mv dark_mode.svg temp_dark.svg
+            mv dark_mode2.svg dark_mode.svg
+            mv temp_dark.svg dark_mode2.svg
+          fi
+
+      - name: Swap Light Mode SVGs
+        run: |
+          if [[ -f light_mode.svg ]]; then
+            mv light_mode.svg temp_light.svg
+            mv light_mode2.svg light_mode.svg
+            mv temp_light.svg light_mode2.svg
+          fi
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add dark_mode.svg dark_mode2.svg light_mode.svg light_mode2.svg
+          git commit -m "Switched Dark & Light Mode SVGs automatically"
+          git push
